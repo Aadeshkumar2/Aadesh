@@ -1,87 +1,55 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Aadesh Kumar",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "2019kuec2049@iiitkota.ac.in",
+		"phone": "8126660645",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India),Pursuing B. Tech. in Electronics and communication Engineering",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Sambhal",
+			"postalCode": "244302",
+			"city": "Sambhal",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
+		"profiles": [
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "Aadeshkumar2",
+				"url": "https://github.com/Aadeshkumar2"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "AadeshKumar",
+				"url": "www.linkedin.com/in/kumaraadesh"
 			},
-			{
-				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
-			}
+			
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
+	
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
+		"organization": "DakshanA Alumni Network (DAAN)",
+		"position": "Member",
+		"website": "https://www.facebook.com/DakshanA.Alumni.Network/",
+		"startDate": "2019-12-01 // Note Date Format",
+		"endDate": "Present",
+		"highlights": [◦ Conducted inspire sessions in Govt. schools.
+◦ Mentored Dakshana Scholars from JEE preparation to JOSAA Counselling process.
+◦ Volunteered in Joint Dakshana Selection Test (JDST), conducted across India.
+◦ Volunteered in Outreach of Dakshana e-classroom program in Covid-19, open freely for all students.]
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"startDate": "2019-08-05 //Date",
+		"endDate": "2023-05",
 		"courses": [
-			"Computer Science & Engineering"
+			"Electronics and communication Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript","C++",]
 	}],
-	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
-	}],
-	"references": []
 }
