@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "Aadeshkumar2",
 				"url": "https://github.com/Aadeshkumar2"
@@ -23,21 +22,23 @@
 				"network": "linkedin",
 				"username": "AadeshKumar",
 				"url": "www.linkedin.com/in/kumaraadesh"
-			},
-			
+			}
+
 		]
 	},
-	
+
+
 	"volunteer": [{
 		"organization": "DakshanA Alumni Network (DAAN)",
 		"position": "Member",
 		"website": "https://www.facebook.com/DakshanA.Alumni.Network/",
 		"startDate": "2019-12-01 // Note Date Format",
 		"endDate": "Present",
-		"highlights": ["Conducted inspire sessions in Govt. schools."
-			       "Mentored Dakshana Scholars from JEE preparation to JOSAA Counselling process."
-			       "Volunteered in Joint Dakshana Selection Test (JDST), conducted across India."
-		"Volunteered in Outreach of Dakshana e-classroom program in Covid-19, open freely for all students."]
+		"highlights": ["Conducted inspire sessions in Govt. schools.",
+			"Mentored Dakshana Scholars from JEE preparation to JOSAA Counselling process.",
+			"Volunteered in Joint Dakshana Selection Test(JDST), conducted across India.",
+			"Volunteered in Outreach of Dakshana e - classroom program in Covid - 19, open freely for all students."
+		]
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
@@ -50,6 +51,6 @@
 		]
 	}],
 	"skills": [{
-		"keywords": ["HTML", "CSS", "Javascript","C++",]
-	}],
+		"keywords": ["HTML", "CSS", "Javascript", "C++"]
+	}]
 }
